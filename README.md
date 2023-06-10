@@ -1,5 +1,6 @@
 ### Hi, I'm Franz 👋
 
+I am a skilled programmer with expertise in various computer languages, including PHP and C#. With a passion for web development, I excel in building dynamic web applications using HTML, CSS, JavaScript, and JQuery. Additionally, I possess extensive knowledge in database management, particularly in MySQL. Throughout my career, I have demonstrated a strong ability to create efficient and scalable solutions, leveraging my programming skills and deep understanding of web technologies. I am dedicated to staying up-to-date with the latest advancements in the field, always eager to expand my knowledge and explore new possibilities. My commitment to excellence and my ability to adapt to evolving technologies make me a valuable asset in any programming project.
 <!--
 **Franzespina21/Franzespina21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
